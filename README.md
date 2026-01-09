@@ -100,7 +100,3 @@ python scripts/validate.py \
   --conf 0.25 \
   --iou 0.5
 ```
-
-The script prints TP/FP/FN and computes precision, recall, and F1@IoU0.5.
-s per image
->>>>>>> aa83bcf (add)
