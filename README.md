@@ -102,16 +102,5 @@ python scripts/validate.py \
 ```
 
 The script prints TP/FP/FN and computes precision, recall, and F1@IoU0.5.
-
-Validation dataset link: TODO (add link)
-
-## Submission checklist
-
-- [ ] Public repository with full source code
-- [ ] Dockerfile builds and API starts on port 8000
-- [ ] README with setup, usage, and approach description
-- [ ] Public links to weights and validation dataset
-- [ ] Validation script (F1@IoU=0.5)
-- [ ] JPEG/PNG/BMP/WEBP supported
-- [ ] Inference time <= 10 seconds per image
+s per image
 >>>>>>> aa83bcf (add)
