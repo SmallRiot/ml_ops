@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# ml_ops
-opda
-=======
+
 ﻿# Apple Logo Detection - Submission
 
 ## Summary
