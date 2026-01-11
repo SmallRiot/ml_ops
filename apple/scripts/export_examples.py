@@ -9,7 +9,8 @@ from ultralytics import YOLO
 
 
 def yolo_to_xyxy(label: str, img_w: int, img_h: int) -> Tuple[float, float, float, float]:
-    _, x_c, y_c, w, h = label.strip().split()
+    parts = [p.replace("\\n", "") for p in label.strip().split()]
+    _, x_c, y_c, w, h = parts
     x_c = float(x_c) * img_w
     y_c = float(y_c) * img_h
     w = float(w) * img_w
