@@ -1,7 +1,4 @@
 apple/data/
 apple/runs/
-apple/models/
-apple/true_apple/
 apple/.ipynb_checkpoints/
 apple/*.pt
-apple/*.ipynb
