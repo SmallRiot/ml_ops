@@ -1,4 +1,6 @@
 apple/data/
+apple/examples/
+apple/models/
 apple/runs/
 apple/.ipynb_checkpoints/
 apple/*.pt
