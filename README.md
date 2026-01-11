@@ -96,7 +96,7 @@ python apple/scripts/export_examples.py \
   --iou 0.5
 ```
 
-Примерный сэмпл (10 success / 10 fail) лежит в `apple/examples_sample`.
+Примерный сэмпл (10 success / 8 fail) лежит в `apple/examples_sample`.
 
 ## API
 
